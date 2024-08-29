@@ -2,7 +2,7 @@
 
 # Overview
 
-This Python script processes a dataset and generates an RDF graph serialized in Turtle format. The script includes integration with the GeoNames API to enrich the data with geographical information. The primary goal is to create an RDF graph that includes detailed metadata about agricultural products and their related geographical features.
+This Python script processes a dataset and generates an RDF graph serialized in Turtle format. The script includes integration with the GeoNames API to enrich the data with geographical information. The primary goal is to create an RDF graph that includes detailed metadata about agricultural products price indexes and their related geographical features.
 
 ## Dependencies
 
