@@ -111,3 +111,7 @@ def get_geonames_name(geonames_id):
 ```
 
 - **get_geonames_name**: This function takes a GeoNames ID, constructs an API request to GeoNames, and retrieves the name of the geographical feature. It handles errors such as invalid GeoNames IDs or issues with the API request.
+
+## Citation
+
+Soares, F. (2024). agri_geo_rdf_generator [Software]. Zenodo. https://doi.org/10.5281/zenodo.13540477
