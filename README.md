@@ -65,7 +65,7 @@ XSD = Namespace("http://www.w3.org/2001/XMLSchema#")
 ```
 
 - **Namespaces**: RDF graphs use URIs to identify resources, and namespaces are used to shorten these URIs in the code. For example:
-  - **ALM**: Namespace for AlmesCore ontology.
+  - **ALM**: Namespace for AlmesCore Metadata Schema.
   - **DCAT**: Namespace for the DCAT vocabulary, which is commonly used to describe datasets.
   - **GN**: Namespace for the GeoNames ontology, used to describe geographical features.
   - **SDo**: Namespace for Schema.org, which is used for general-purpose metadata.
